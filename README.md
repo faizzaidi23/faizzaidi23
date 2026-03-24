@@ -1,12 +1,10 @@
 <div align="center">
 
 <!-- DYNAMIC HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Hey,%20I'm%20Faiz%20Zaidi%20👋&fontSize=46&fontColor=e0e0e0&fontAlignY=38&desc=Android%20Developer%20%7C%20@%20Innogeeks%20%7C%20Ghaziabad%2C%20India&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Hey,%20I'm%20Faiz%20👋&fontSize=46&fontColor=e0e0e0&fontAlignY=38&desc=Android%20Developer%20%7C%20@%20Innogeeks%20%7C%20Ghaziabad%2C%20India&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=faizzaidi23&label=Profile%20Views&color=4a9eff&style=for-the-badge&labelColor=0a0a0a" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/faizzaidi23?label=Followers&style=for-the-badge&color=c9d1d9&labelColor=0a0a0a" alt="Followers"/>
+
 
 </div>
 
@@ -85,6 +83,10 @@ data class Developer(
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizzaidi23&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="48%"/>
+
+<img src="https://komarev.com/ghpvc/?username=faizzaidi23&label=Profile%20Views&color=4a9eff&style=for-the-badge&labelColor=0a0a0a" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/faizzaidi23?label=Followers&style=for-the-badge&color=c9d1d9&labelColor=0a0a0a" alt="Followers"/>
 
 </div>
 
