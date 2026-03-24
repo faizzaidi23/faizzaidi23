@@ -1,14 +1,10 @@
 <div align="center">
 
 <!-- DYNAMIC HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Hey,%20I'm%20Faiz%20Zaidi%20👋&fontSize=46&fontColor=e0e0e0&fontAlignY=38&desc=Android%20Developer%20%7C%20@%20Innogeeks%20%7C%20Ghaziabad%2C%20India&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Hey,%20I'm%20Faiz%20👋&fontSize=46&fontColor=e0e0e0&fontAlignY=38&desc=Android%20Developer%20%7C%20@%20Innogeeks%20%7C%20Ghaziabad%2C%20India&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <!-- PROFILE VIEWS + FOLLOWERS — centered under header -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=faizzaidi23&label=Profile%20Views&color=4a9eff&style=for-the-badge&labelColor=0a0a0a" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/faizzaidi23?label=Followers&style=for-the-badge&color=c9d1d9&labelColor=0a0a0a" alt="Followers"/>
-</p>
+
 
 </div>
 
@@ -31,7 +27,7 @@ data class Developer(
 ```
 
 - 🔭 Currently working on **Full Stack Android apps**
-- 🌱 Learning **Spring Boot** & **Software Project Management**
+- 🌱 Learning **Spring Boot** & **Mern Stack**
 - ⚔️ Competitive programmer — active on **LeetCode, CodeForces, CodeChef**
 - 💬 Ask me about **Android, Kotlin, Jetpack Compose, Firebase, Spring Boot and DSA**
 - 📍 Based in **Ghaziabad, India**
@@ -82,6 +78,12 @@ data class Developer(
 <img src="https://github-readme-stats.vercel.app/api?username=faizzaidi23&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=4a9eff&text_color=c9d1d9&hide_border=false&count_private=true" width="48%"/>
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizzaidi23&theme=github-dark-blue&background=0d1117&border=30363d&ring=58a6ff&fire=4a9eff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="48%"/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=faizzaidi23&label=Profile%20Views&color=4a9eff&style=for-the-badge&labelColor=0a0a0a" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/faizzaidi23?label=Followers&style=for-the-badge&color=c9d1d9&labelColor=0a0a0a" alt="Followers"/>
+</p>
 
 <br/><br/>
 
